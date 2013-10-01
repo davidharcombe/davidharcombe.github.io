@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.gramercysoftware</groupId>
+  <artifactId>commons-utils</artifactId>
+  <versioning>
+    <versions>
+      <version>1.4-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131001181254</lastUpdated>
+  </versioning>
+</metadata>
